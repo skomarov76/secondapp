@@ -125,11 +125,11 @@
 
 1. Приложение [Yandex Практикум](https://play.google.com/store/apps/details?id=ru.yandex.practicum.flutter_practicum "Я укажу тебе дорогу к свету!"), с помощью которого легко и удобно учиться в дороге.
 
-![Yandex Практикум](./images/ypractice_ico.png "Ученьесвет...")
+![Yandex Практикум](./ypractice_ico.png "Ученьесвет...")
 
 2. Приложение [Termux](https://play.google.com/store/apps/details?id=com.termux "Нисы, *япон.*, означает "Я так 100 раз уже делал!"), приложение, котрое позволяет превратить телефон в мини-станцию Linux с терминалом.
 
-![Termux](./images/termux_ico.png "Дапребудетсиластобой...")
+![Termux](./termux_ico.png "Дапребудетсиластобой...")
 
 3. Браузер, любой, обычно установлен по умолчанию.
 
