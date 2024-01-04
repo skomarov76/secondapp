@@ -100,7 +100,7 @@
 ```
 
 
-# И еще очень много интересного на курсе Основы работы с Git" от Yandex Практикум. Следующий шаг - знакомимся с самым известным публичным репозиторием GitHub. Но тут самое время перейти по [ссылке](https://practicum.yandex.ru/referrals/?ref_code=gAAAAABllgr86OtnWPTbGPuGTbvPbjrJvkUskGyIcGlRJAyxjsWrTaOLXrEtGhblif6SfdCcZsAvSPtN1-uz6d_TQuS89rzrZg%3D%3D) и зарегистрироваться на курс...
+## И еще очень много интересного на курсе Основы работы с Git" от Yandex Практикум. Следующий шаг - знакомимся с самым известным публичным репозиторием GitHub. Но тут самое время перейти по [ссылке](https://practicum.yandex.ru/referrals/?ref_code=gAAAAABllgr86OtnWPTbGPuGTbvPbjrJvkUskGyIcGlRJAyxjsWrTaOLXrEtGhblif6SfdCcZsAvSPtN1-uz6d_TQuS89rzrZg%3D%3D) и зарегистрироваться на курс...
 
 
 
